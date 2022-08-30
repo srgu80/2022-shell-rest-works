@@ -1,7 +1,8 @@
 # to run 
 
-# step 1
+# step 1 to do
 > mvn clean install
 
-# step 2
+# step 2 to do
+
 > mvn spring-boot:run
