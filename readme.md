@@ -1,6 +1,6 @@
 # to run 
 
-i made a change, wow
+
 
 > mvn clean install
 
@@ -9,4 +9,4 @@ i made a change, wow
 MAKING A CHANGE TO THE README
 
 
-TESTING GITHUB ACTIONS
+TESTING GITHUB ACTIONS for pull
